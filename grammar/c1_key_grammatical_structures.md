@@ -22,6 +22,21 @@ These are the main advanced features expected at C1 (from British Council, Cambr
 - Inverted forms for emphasis/formality: *"Had I known..., I would have..."* (instead of "If I had known...")
 - Alternatives to "if": provided that, unless, supposing, on condition that, as long as
 
+**"No Matter" - Concessive Conditional Patterns**
+- Used to express that something is true regardless of circumstances
+- **Patterns**:
+  - *"No matter + question word"*: *"No matter how hard I try, I still make mistakes."*
+  - *"No matter + what/who/where/when/which"*: *"No matter what happens, stay calm."*
+  - *"No matter whether... or..."*: *"No matter whether it rains or shines, the event will proceed."*
+- **Alternative forms**:
+  - *"Regardless of how/what/when..."*: *"Regardless of how expensive it is, I'll buy it."*
+  - *"No matter the + noun"*: *"No matter the cost, we must succeed."*
+- **Compare**:
+  - *"No matter how difficult it is, I'll finish."* (more emphatic)
+  - *"However difficult it is, I'll finish."* (slightly more formal/literary)
+  - *"Regardless of its difficulty, I'll finish."* (more formal/academic)
+- Excellent for TOEFL Speaking/Writing when expressing determination or universal statements
+
 ### 2. Participle Clauses (for conciseness and sophistication)
 
 - **Present participle**: *"Having finished the lecture, I took notes."* (instead of "After I finished...")
@@ -41,6 +56,16 @@ These make your Speaking/Writing more advanced and fluid.
 - **For emphasis**: *"Never have I seen such a beautiful city."* / *"Not only did she pass, but she also got the highest score."*
 - With adverbs like: seldom, rarely, hardly, no sooner... than..., only then...
 - Great for Speaking emphasis or Writing variety
+
+**Special Note: "No Longer"**
+- Used to express that something was true in the past but is not true now
+- **Standard position**: *"The library is no longer open on Sundays."* / *"He no longer believes in that theory."*
+- **Inverted (formal/emphatic)**: *"No longer do students rely solely on textbooks."* / *"No longer is this practice acceptable."*
+- Compare:
+  - *"She doesn't work here anymore."* (informal)
+  - *"She no longer works here."* (more formal/written)
+  - *"No longer does she work here."* (emphatic/formal)
+- Perfect for TOEFL Writing when contrasting past and present situations
 
 ### 5. Cleft Sentences (for Emphasis)
 
