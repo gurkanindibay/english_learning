@@ -74,10 +74,26 @@ These highlight key ideas—perfect for TOEFL Speaking responses.
 
 ### 10. Connectors and Discourse Markers (Advanced Cohesion)
 
-- **Contrast**: whereas, albeit, notwithstanding, on the other hand
-- **Addition**: furthermore, moreover, in addition
-- **Cause/Effect**: owing to, due to the fact that, consequently
-- **Sequencing**: subsequently, eventually
+Advanced connectors show sophisticated thinking and improve coherence in both speaking and writing. They are essential for C1-level fluency.
+
+**📚 See complete guide:** [c1_connectors_discourse_markers.md](c1_connectors_discourse_markers.md)
+
+The separate file includes 150+ connectors organized by function:
+- **Contrast & Concession** (nevertheless, despite, yet, still, although, albeit)
+- **Addition & Emphasis** (furthermore, moreover, indeed)
+- **Cause, Effect & Result** (because of, therefore, consequently)
+- **Time & Sequence** (beforehand, subsequently, eventually)
+- **Purpose & Intention** (in order to, with a view to)
+- **Example & Illustration** (for instance, namely, specifically)
+- **Summary & Conclusion** (in conclusion, overall, in brief)
+- **Clarification** (in other words, that is to say)
+- **Comparison** (similarly, likewise, by the same token)
+- **Condition** (provided that, unless, otherwise)
+- **Opinion & Viewpoint** (in my view, from my perspective)
+- **Scope & Extent** (to some extent, with regard to)
+- **Reality & Actuality** (in reality, as it turns out)
+
+Each connector includes example sentences and clarifying notes showing subtle differences between similar options.
 
 ### 11. Subjunctive Mood (Formal Recommendations and Demands)
 
