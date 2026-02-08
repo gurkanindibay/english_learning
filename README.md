@@ -19,9 +19,18 @@ english_learning/
 ├── toefl/                     # TOEFL-specific materials
 │   ├── toefl_study_plan.md   # Weekly study plan and strategy
 │   ├── practice/             # Practice exercises and tests
-│   │   └── listening_practice_feb8_2026.md
+│   │   ├── scripts/          # Audio scripts (for generation)
+│   │   ├── questions/        # Questions only (for practice)
+│   │   ├── answers/          # Answer keys + transcripts (for review)
+│   │   └── README.md         # Practice organization guide
 │   └── scores/               # Score reports
 │       └── TOEFL_Score_Report_1186370.pdf
+│
+├── scripts/                   # 🎧 Audio generation tools
+│   ├── generate_listening_audio.py  # Convert practice to MP3
+│   ├── setup.sh              # Quick setup script
+│   ├── requirements.txt      # Python dependencies
+│   └── README.md             # Detailed usage guide
 │
 └── .github/
     └── agents/               # GitHub Copilot agent configurations
@@ -34,7 +43,11 @@ english_learning/
 
 ### TOEFL Preparation
 - **[Study Plan](toefl/toefl_study_plan.md)** - 8-hour weekly plan (10-12 weeks)
-- **[Listening Practice](toefl/practice/)** - Practice materials for listening section
+- **[Listening Practice Guide](toefl/practice/README.md)** - How to use practice materials
+- **[Practice Organization](toefl/practice/)** - Organized into scripts, questions, and answers
+  - **Scripts:** Source files for audio generation
+  - **Questions:** Practice files (no answers/transcripts)
+  - **Answers:** Answer keys with full transcripts for review
 - **Current Score:** 90/120 → **Target:** 102/120
 
 ### Grammar & Writing
@@ -44,6 +57,23 @@ english_learning/
 ### Study Resources
 - **[Cornell Notes Guide](study_guides/cornell_notes_guide.md)** - Note-taking methodology
 - **[Vocabulary](vocabulary/vocabulary.md)** - Word lists and definitions
+
+### 🎧 Audio Generation Tools
+- **[Audio Scripts](scripts/)** - Convert listening practice to MP3 with **multiple natural voices**
+- **Features:**
+  - ✅ Different voices for male/female speakers (auto-detect or custom)
+  - ✅ High-quality Microsoft Edge TTS (neural voices)
+  - ✅ Natural pauses between speakers
+  - ✅ Smart voice assignment (auto-detect from labels or alternate)
+  - ✅ Free and open source
+- **Quick Start:**
+  ```bash
+  cd scripts
+  python3 -m venv venv  # First time only
+  venv/bin/pip install -r requirements.txt  # First time only
+  venv/bin/python generate_listening_audio.py ../toefl/practice/scripts/listening_practice_[date]_script.md
+  ```
+- **See [scripts/README.md](scripts/README.md)** for detailed usage and customization
 
 ## 🎯 Current Focus
 
