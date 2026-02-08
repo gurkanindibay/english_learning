@@ -1,99 +1,10 @@
-# Answer Key - February 8, 2026
+# Answer Key - Sociology: Gentrification
 
-⚠️ **DO NOT OPEN THIS FILE UNTIL YOU HAVE COMPLETED ALL QUESTIONS!**
-
----
-
-## Passage 1: Library Research Consultation
-
-### Answers with Explanations
-
-**1. B** - To get help finding peer-reviewed articles for a research project
-   - The student explicitly states: "I'm having trouble finding sources" and asks about peer-reviewed journal articles
-   - Wrong: A (checking out books), C (making appointment - this was offered later), D (learning Google Scholar - he already tried it)
-
-**2. C** - The effects of sleep deprivation on memory and learning
-   - Student says: "I'm looking at the effects of sleep deprivation on memory and learning in college students"
-   - Wrong: A (stress not mentioned), B (too narrow - not just sleep patterns), D (biological components mentioned but not the main topic)
-
-**3. C** - Students can access full-text articles for free through university subscriptions
-   - Librarian says: "Since our university has subscriptions to these databases, you can access the full text of articles for free through our library portal"
-   - Also mentions "articles you find there might be behind paywalls" with Google Scholar
-   - Wrong: A (not about quantity), B (not about ease), D (Google Scholar has various dates)
-
-**4. A, C** - Use the AND operator to combine keywords AND Use quotation marks for exact phrases
-   - Librarian explicitly recommends: "sleep deprivation AND memory" and explains the AND operator
-   - Librarian says: "if you want the exact phrase, use quotation marks"
-   - Wrong: B (she said majority from last 10 years, not only past year), D (she said don't completely ignore older foundational studies)
-
-**5. B** - By looking at how many times it has been cited
-   - Librarian says: "Look at how many times it's been cited by other researchers...If a paper has been cited hundreds of times, it's probably influential"
-   - Also mentions journal prestige as a secondary indicator
-   - Wrong: A (length not mentioned), C (abstract doesn't show influence), D (credentials not the main indicator discussed)
-
-**6. C** - Students can access them using their university login credentials
-   - Librarian says: "Absolutely! As long as you log in with your student credentials, you can access all our databases remotely"
-   - Wrong: A (it IS possible), B (no special permission needed), D (works anytime with login)
-
-**Passage 1 Score: ___/6**
+⚠️ **DO NOT OPEN UNTIL YOU FINISH THE PRACTICE!**
 
 ---
 
-### Full Transcript - Passage 1: Library Research Consultation
-
-**Librarian (Female):** Good afternoon! How can I help you?
-
-**Student (Male):** Hi, I'm working on a research project for my Psychology 301 class, and I'm having trouble finding sources. My professor said we need to use peer-reviewed journal articles, but I'm not exactly sure what that means or where to find them.
-
-**Librarian:** No problem, that's a common question. Peer-reviewed articles are research papers that have been evaluated by experts in the field before publication. They're considered more reliable than regular magazine articles or websites because they've been vetted by other scholars.
-
-**Student:** Okay, that makes sense. So where do I find these?
-
-**Librarian:** We have several databases specifically for academic journals. What's your research topic?
-
-**Student:** I'm looking at the effects of sleep deprivation on memory and learning in college students.
-
-**Librarian:** Oh, great topic! For psychology research, I'd recommend starting with PsycINFO - that's the main database for psychology literature. We also have PubMed, which covers medical and biological research, and that would be useful since sleep and memory have biological components.
-
-**Student:** I tried searching on Google Scholar. Is that good enough?
-
-**Librarian:** Google Scholar can be helpful for getting an overview, but here's the problem - many of the articles you find there might be behind paywalls. Since our university has subscriptions to these databases, you can access the full text of articles for free through our library portal. Plus, our databases have better filtering options. You can limit your search to just peer-reviewed articles, specific date ranges, and particular types of studies.
-
-**Student:** That's really useful. So how do I access PsycINFO?
-
-**Librarian:** Go to the library website, click on "Databases," and you can search alphabetically or by subject. Once you're in PsycINFO, type in your keywords. For your topic, I'd try something like "sleep deprivation AND memory" or "sleep AND learning AND college students." The AND operator tells the database to find articles containing all those terms.
-
-**Student:** Should I use quotation marks around phrases?
-
-**Librarian:** Good question! Yes, if you want the exact phrase, use quotation marks. For example, "sleep deprivation" will find that specific phrase, whereas without quotes, it might find articles with "sleep" and "deprivation" anywhere in the text, not necessarily together.
-
-**Student:** Okay, got it. And once I find articles, how many do I actually need?
-
-**Librarian:** What does your assignment require?
-
-**Student:** The professor said at least eight sources, and the majority should be from the last ten years.
-
-**Librarian:** Alright, so you'll want to use the date filter in the database. Most databases let you specify date ranges. Since current research is important in psychology, focusing on recent studies makes sense. But don't completely ignore older foundational studies - if there's a really important paper from 15 years ago that everyone cites, it might still be worth including.
-
-**Student:** How do I know if a study is important or foundational?
-
-**Librarian:** Look at how many times it's been cited by other researchers. In PsycINFO, there's usually a citation count. If a paper has been cited hundreds of times, it's probably influential. Also, pay attention to where it's published. Journals like *Nature*, *Science*, or specific psychology journals like *Psychological Science* are highly respected.
-
-**Student:** This is really helpful. One more question - can I access these databases from home?
-
-**Librarian:** Absolutely! As long as you log in with your student credentials, you can access all our databases remotely. You might need to enter your university username and password, but then you'll have the same access as if you were here in the library.
-
-**Student:** Perfect. Thank you so much!
-
-**Librarian:** You're welcome! If you need more help once you start searching, we also offer research consultation appointments. You can book those online through the library website.
-
-**Student:** I'll keep that in mind. Thanks again!
-
----
-
-## Passage 2: Sociology - Gentrification
-
-### Answers with Explanations
+## Answers
 
 **1. B** - The causes, effects, and controversies surrounding gentrification
    - The lecture covers definition, how it unfolds, competing perspectives, and potential solutions
@@ -137,11 +48,11 @@
    - Professor ends with: "For next class, please read the case study on Brooklyn's gentrification in your textbook, Chapter 8"
    - Wrong: A (not essay), B (not interviews), D (mentioned as solution but not assignment)
 
-**Passage 2 Score: ___/10**
+**Your Score: ___/10**
 
 ---
 
-### Full Transcript - Passage 2: Sociology - Gentrification
+## Full Transcript
 
 **Professor (Male):** Alright, today we're going to discuss a phenomenon that's been reshaping cities across the United States and really around the world - gentrification. Now, you've probably heard this term before, maybe in the news or in conversations about your own city changing. But let's dive into what it actually means and why it's such a complex and controversial issue.
 
@@ -189,94 +100,18 @@ Okay, we're going to stop here for today. For next class, please read the case s
 
 ---
 
-## Combined Score
-
-**Total: ___/16 = ___%**
-
-### TOEFL Scoring Reference
-- **90-100%** (14-16): Excellent! High-Intermediate to Advanced level
-- **75-89%** (12-13): Good! Solid Intermediate level
-- **60-74%** (10-11): Fair - Keep practicing note-taking and focus
-- **Below 60%** (<10): Needs work - Focus on main ideas and signal words
-
----
-
 ## Error Analysis Worksheet
 
-**For each wrong answer, complete:**
-
-| Question # | Type | Why I Missed It | What I Missed in Notes | Future Strategy |
-|------------|------|-----------------|------------------------|-----------------|
-| | main idea / detail / function / attitude / inference | | | |
-| | | | | |
-| | | | | |
-
-**Question Types:**
-- **Main Idea**: Overall topic or purpose
-- **Detail**: Specific facts mentioned
-- **Function**: Why speaker mentions something
-- **Attitude**: Speaker's opinion or feeling
-- **Inference**: Conclusions from implicit information
+For each wrong answer:
+1. Why did I miss it?
+2. What did I miss in my notes?
+3. What will I do differently next time?
 
 ---
 
-## Vocabulary to Review
+## Score Interpretation
 
-Add these to your vocabulary.md file:
-
-**From Passage 1:**
-- peer-reviewed
-- paywall
-- database
-- citation
-- foundational study
-
-**From Passage 2:**
-- gentrification
-- displacement
-- pioneer gentrifiers
-- inclusive zoning
-- community land trust
-- equitable development
-
----
-
-## Next Steps
-
-1. ✅ Review incorrect answers and understand why
-2. ✅ Read transcripts again for passages where you scored <70%
-3. ✅ Add new vocabulary to your vocabulary list
-4. ✅ Practice note-taking abbreviations
-5. ✅ Schedule next listening practice session
-
-**Note-taking improvements to focus on:**
-- Main ideas vs supporting details
-- Recognizing signal words (however, for example, but)
-- Using abbreviations consistently
-- Organizing hierarchically (indentation)
-
----
-
-## Practice Log
-
-**Date:** February 8, 2026  
-**Time Spent:** ___ minutes  
-**Overall Accuracy:** ___%  
-**Passage 1 Accuracy:** ___%  
-**Passage 2 Accuracy:** ___%
-
-### Strengths
-- 
-- 
-
-### Areas for Improvement
-- 
-- 
-
-### Goals for Next Practice
-- 
-- 
-
----
-
-Keep practicing! Consistent exposure to academic listening will improve your comprehension and note-taking skills. 🎧
+- **90-100%**: Excellent! Advanced comprehension
+- **75-89%**: Good! Solid understanding
+- **60-74%**: Fair - Practice note-taking strategies
+- **Below 60%**: Review main idea identification

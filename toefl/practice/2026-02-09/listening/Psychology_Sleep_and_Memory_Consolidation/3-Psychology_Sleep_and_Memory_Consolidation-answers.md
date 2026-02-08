@@ -1,87 +1,70 @@
-# TOEFL Listening Practice Script - February 9, 2026
+# Answer Key - Psychology: Sleep and Memory Consolidation
 
-**Purpose:** This file contains ONLY the audio scripts for audio generation.
-**DO NOT use this file for practice** - use the questions file instead.
-
----
-
-## Passage 1: Campus Conversation
-
-### 🎧 Audio Script - Academic Advising Appointment
-
-**Advisor (Female):** Come in! You must be Jennifer. Please, have a seat.
-
-**Student (Female):** Thank you, Professor Martinez. I really appreciate you taking the time to meet with me.
-
-**Advisor:** Of course! That's what I'm here for. So, I see from your email that you're thinking about changing your major from Business to Environmental Science. That's quite a shift! Tell me what's behind this decision.
-
-**Student:** Well, I've been taking Business classes for the past year and a half, and honestly, I'm just not passionate about it anymore. Last semester, I took Environmental Studies as an elective, and it completely changed my perspective. I found myself actually excited about the readings and assignments, which hasn't happened with my Business courses.
-
-**Advisor:** That's a really important realization. Passion definitely matters for long-term success. But I want to make sure you've thought through all the implications. Have you considered how much longer it might take to graduate if you switch majors now?
-
-**Student:** That's actually my biggest concern. I'm currently a sophomore, so I'm halfway through. I'm worried I might need an extra year or even more.
-
-**Advisor:** Let's look at your transcript together. You've completed... let me see... you have your general education requirements mostly done, which is good. And I see you took Chemistry 101 and Biology 150. Those actually count toward the Environmental Science major, so they won't go to waste.
-
-**Student:** Really? I had no idea! I just took those for my science requirements.
-
-**Advisor:** Yes, and that's going to help you. Environmental Science requires a strong foundation in natural sciences. Now, the major requires 45 credit hours of coursework - that's about 15 classes. You've already got... let me calculate... about 12 credits that will transfer over from your science classes and that Environmental Studies course.
-
-**Student:** So I'd need 33 more credits?
-
-**Advisor:** Exactly. That's 11 classes. If you take a full load each semester - that's typically 15 credits, or five classes - you could finish in three more semesters. That means you'd graduate one semester late, in December instead of May.
-
-**Student:** One semester doesn't sound too bad. I was thinking it might be a whole year.
-
-**Advisor:** It could be less if you're willing to take summer classes. The Environmental Science department offers several core courses during summer session. If you took two classes this coming summer, you could potentially still graduate on time next May.
-
-**Student:** That would be amazing! But wouldn't summer classes be really expensive?
-
-**Advisor:** They are an additional cost, yes. Each summer course is about $1,200. But compare that to the cost of an entire extra semester - tuition, housing, living expenses. Financially, summer classes actually save money if they help you graduate on time.
-
-**Student:** That's a good point. What about my internship? I was planning to do a business internship this summer.
-
-**Advisor:** Ah, that's something to consider. Here's what I'd suggest - and this is just a suggestion. You could take one summer class instead of two, which would leave you time for a part-time internship. It wouldn't have to be in business anymore. In fact, an environmental science or sustainability internship would look great on your resume and give you practical experience in your new field.
-
-**Student:** I hadn't thought about that. Do you know if there are environmental internships available?
-
-**Advisor:** Absolutely. The Career Center has listings, and I can also connect you with some of our Environmental Science faculty who have industry connections. Professor Chen, for example, works closely with the State Department of Natural Resources, and they often have summer intern positions.
-
-**Student:** That sounds perfect. Okay, so if I take one summer class and then five classes each semester for the next two semesters, I'd still be one semester behind, right?
-
-**Advisor:** Correct. You'd graduate in December. But let me ask - is graduating in May versus December a dealbreaker for you?
-
-**Student:** I don't think so. Most job postings I've seen are year-round, not just for May graduates.
-
-**Advisor:** That's true, especially in environmental fields. Many positions actually prefer January start dates because that's when new budgets kick in. There's one more thing you should know, though. Switching majors now means you need to formally apply to the Environmental Science program. It's not automatic.
-
-**Student:** Oh, I didn't realize there was an application process. Is it competitive?
-
-**Advisor:** Somewhat. They accept about 70% of applicants, and they mainly look at your GPA in science courses and a statement of purpose. Looking at your transcript, you got an A in Biology and a B+ in Chemistry, so you're in good shape academically. The statement is really about explaining your interest in the field and what you hope to achieve.
-
-**Student:** When would I need to apply?
-
-**Advisor:** The deadline for fall admission is March 15th, so you have about five weeks. I'd recommend starting your statement soon, maybe getting it reviewed by the Writing Center, and then you'll also need one letter of recommendation from a faculty member.
-
-**Student:** Could I ask my Environmental Studies professor? I did really well in that class, and we had several good discussions during office hours.
-
-**Advisor:** That would be ideal. They can speak to your genuine interest and academic ability in the field. Just make sure to ask them soon and give them at least three weeks before the deadline. Professors get a lot of these requests.
-
-**Student:** Okay, this is all really helpful. I'm feeling a lot more confident about this decision now. Is there anything else I should be thinking about?
-
-**Advisor:** Just one thing - make sure to officially declare your intent to change majors with the Registrar's Office, even before you get accepted to the Environmental Science program. That way, you won't accidentally register for Business classes next semester out of habit.
-
-**Student:** Good point! I'll do that this week. Thank you so much for all your help, Professor Martinez.
-
-**Advisor:** You're very welcome, Jennifer. Feel free to email me if you have any other questions as you go through this process. Good luck with your application!
-
-**Student:** Thank you!
+⚠️ **DO NOT OPEN UNTIL YOU FINISH THE PRACTICE!**
 
 ---
 
-## Passage 2: Academic Lecture
+## Answers
 
-### 🎧 Audio Script - Psychology: Sleep and Memory Consolidation
+### Answers with Explanations
+
+**1. C** - The role of sleep in memory consolidation
+   - Professor states: "I want to focus on...the critical role that sleep plays in memory consolidation"
+   - Wrong: A (stages mentioned but not main topic), B (study habits are implication, not main topic), D (disorders not discussed)
+
+**2. B** - In the hippocampus
+   - Professor explains: "When you first learn something...that information is initially stored in the hippocampus"
+   - Says it's "like a temporary storage facility"
+   - Wrong: A (long-term storage), C (not mentioned for initial storage), D (pathways are activated, not storage location)
+
+**3. B** - The brain replays neural patterns to strengthen memories
+   - Professor states: "During slow-wave sleep, your brain essentially replays the neural patterns from your day"
+   - "This replay strengthens the synaptic connections"
+   - Wrong: A (triage happens but not only deletion), C (not mentioned), D (REM handles emotional)
+
+**4. C** - The group that slept showed improvement without additional practice
+   - Professor describes: "The group that slept showed significant improvement in both speed and accuracy, even though they hadn't practiced at all during that time"
+   - Wrong: A (sleep group did better), B (opposite - sleep helped), D (wake group showed minimal improvement)
+
+**5. C** - Procedural memory and emotional processing
+   - Professor says: "REM sleep seems to be particularly important for procedural memory and emotional memory"
+   - Wrong: A (slow-wave sleep), B (not mentioned for REM), D (not discussed)
+
+**6. B** - The brain decides what information to keep and what to discard during sleep
+   - Professor explains: "Your brain doesn't keep everything...During sleep...your brain essentially decides what's important enough to keep and what can be discarded"
+   - Wrong: A (not a treatment), C (happens during normal sleep), D (not a technique)
+
+**7. A, C, D** - Repetition, Emotional significance, Novelty
+   - Professor lists factors: "Repetition is one...Emotional significance is another...And novelty matters too"
+   - Wrong: B (length not mentioned), E (social context not mentioned)
+
+**8. B** - The brain doesn't have time to consolidate information from hippocampus to cortex
+   - Professor explains: "You're not giving your brain time to do this sorting and consolidation process"
+   - "information is still sitting in your hippocampus in temporary storage"
+   - Wrong: A (mentioned but not the main reason), C and D (not mentioned)
+
+**9. B** - Sleep-deprived people are more likely to remember things that didn't happen
+   - Professor states: "When people are sleep-deprived...they're also more likely to remember things that didn't actually happen"
+   - Wrong: A (not all memory), C (affects both new and existing), D (false memories are negative, not helpful)
+
+**10. B** - Spreading study sessions over multiple days with sleep in between
+   - Professor explains: "spacing out your study sessions over multiple days with sleep in between is far more effective than massed practice"
+   - Wrong: A (not about physical space), C (not about hourly breaks), D (not about exam scheduling)
+
+**11. B** - A 90-minute nap can include some slow-wave and REM sleep
+   - Professor says: "A 90-minute nap can include some slow-wave sleep and even a bit of REM"
+   - Wrong: A (not as effective as full night), C (opposite - longer better for consolidation), D (can help but not substitute)
+
+**12. B** - Associating information with a cue and presenting that cue during sleep to enhance consolidation
+   - Professor explains: "if you associate specific information with a cue - like a particular sound or smell - and then present that cue during sleep, you can enhance consolidation"
+   - Says it's "still experimental"
+   - Wrong: A (still experimental), C (not a disorder), D (close but not the same - involves cues during sleep)
+
+**Your Score: ___/12**
+
+---
+
+## Full Transcript
 
 **Professor (Male):** Alright everyone, let's continue our discussion of memory. Last week we talked about how memories are encoded and stored. Today, I want to focus on something that might surprise you - the critical role that sleep plays in memory consolidation. And I'm not just talking about being well-rested so you can focus better. I'm talking about sleep as an active process that literally changes how memories are stored in your brain.
 
@@ -143,8 +126,18 @@ Okay, we need to wrap up for today. For next class, I want you to read Chapter 7
 
 ---
 
-**This script is ready for audio generation using:**
-```bash
-cd scripts
-venv/bin/python generate_listening_audio.py ../toefl/practice/2026-02-09/script.md -o ../toefl/practice/2026-02-09/audio
-```
+## Error Analysis Worksheet
+
+For each wrong answer:
+1. Why did I miss it?
+2. What did I miss in my notes?
+3. What will I do differently next time?
+
+---
+
+## Score Interpretation
+
+- **90-100%**: Excellent! Advanced comprehension
+- **75-89%**: Good! Solid understanding
+- **60-74%**: Fair - Practice note-taking strategies
+- **Below 60%**: Review main idea identification

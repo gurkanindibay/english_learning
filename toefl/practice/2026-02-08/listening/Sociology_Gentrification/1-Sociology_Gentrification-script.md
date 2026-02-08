@@ -1,67 +1,6 @@
-# TOEFL Listening Practice Script - February 8, 2026
+# Audio Script - Sociology: Gentrification
 
-**Purpose:** This file contains ONLY the audio scripts for audio generation.
-**DO NOT use this file for practice** - use the questions file instead.
-
----
-
-## Passage 1: Campus Conversation
-
-### 🎧 Audio Script - Library Research Consultation
-
-**Librarian (Female):** Good afternoon! How can I help you?
-
-**Student (Male):** Hi, I'm working on a research project for my Psychology 301 class, and I'm having trouble finding sources. My professor said we need to use peer-reviewed journal articles, but I'm not exactly sure what that means or where to find them.
-
-**Librarian:** No problem, that's a common question. Peer-reviewed articles are research papers that have been evaluated by experts in the field before publication. They're considered more reliable than regular magazine articles or websites because they've been vetted by other scholars.
-
-**Student:** Okay, that makes sense. So where do I find these?
-
-**Librarian:** We have several databases specifically for academic journals. What's your research topic?
-
-**Student:** I'm looking at the effects of sleep deprivation on memory and learning in college students.
-
-**Librarian:** Oh, great topic! For psychology research, I'd recommend starting with PsycINFO - that's the main database for psychology literature. We also have PubMed, which covers medical and biological research, and that would be useful since sleep and memory have biological components.
-
-**Student:** I tried searching on Google Scholar. Is that good enough?
-
-**Librarian:** Google Scholar can be helpful for getting an overview, but here's the problem - many of the articles you find there might be behind paywalls. Since our university has subscriptions to these databases, you can access the full text of articles for free through our library portal. Plus, our databases have better filtering options. You can limit your search to just peer-reviewed articles, specific date ranges, and particular types of studies.
-
-**Student:** That's really useful. So how do I access PsycINFO?
-
-**Librarian:** Go to the library website, click on "Databases," and you can search alphabetically or by subject. Once you're in PsycINFO, type in your keywords. For your topic, I'd try something like "sleep deprivation AND memory" or "sleep AND learning AND college students." The AND operator tells the database to find articles containing all those terms.
-
-**Student:** Should I use quotation marks around phrases?
-
-**Librarian:** Good question! Yes, if you want the exact phrase, use quotation marks. For example, "sleep deprivation" will find that specific phrase, whereas without quotes, it might find articles with "sleep" and "deprivation" anywhere in the text, not necessarily together.
-
-**Student:** Okay, got it. And once I find articles, how many do I actually need?
-
-**Librarian:** What does your assignment require?
-
-**Student:** The professor said at least eight sources, and the majority should be from the last ten years.
-
-**Librarian:** Alright, so you'll want to use the date filter in the database. Most databases let you specify date ranges. Since current research is important in psychology, focusing on recent studies makes sense. But don't completely ignore older foundational studies - if there's a really important paper from 15 years ago that everyone cites, it might still be worth including.
-
-**Student:** How do I know if a study is important or foundational?
-
-**Librarian:** Look at how many times it's been cited by other researchers. In PsycINFO, there's usually a citation count. If a paper has been cited hundreds of times, it's probably influential. Also, pay attention to where it's published. Journals like *Nature*, *Science*, or specific psychology journals like *Psychological Science* are highly respected.
-
-**Student:** This is really helpful. One more question - can I access these databases from home?
-
-**Librarian:** Absolutely! As long as you log in with your student credentials, you can access all our databases remotely. You might need to enter your university username and password, but then you'll have the same access as if you were here in the library.
-
-**Student:** Perfect. Thank you so much!
-
-**Librarian:** You're welcome! If you need more help once you start searching, we also offer research consultation appointments. You can book those online through the library website.
-
-**Student:** I'll keep that in mind. Thanks again!
-
----
-
-## Passage 2: Academic Lecture
-
-### 🎧 Audio Script - Sociology: Gentrification
+### 🎧 Sociology: Gentrification
 
 **Professor (Male):** Alright, today we're going to discuss a phenomenon that's been reshaping cities across the United States and really around the world - gentrification. Now, you've probably heard this term before, maybe in the news or in conversations about your own city changing. But let's dive into what it actually means and why it's such a complex and controversial issue.
 
@@ -106,11 +45,3 @@ There's also the question of whether we should be trying to prevent neighborhood
 The key takeaway here is that gentrification is a structural issue, not just about individual choices. It's about economic systems, policy decisions, historical patterns of discrimination and disinvestment. Understanding these deeper structures is crucial if we want to address urban inequality.
 
 Okay, we're going to stop here for today. For next class, please read the case study on Brooklyn's gentrification in your textbook, Chapter 8. We'll discuss specific examples and you'll see these patterns playing out in real neighborhoods. Any final questions?
-
----
-
-**This script is ready for audio generation using:**
-```bash
-cd scripts
-venv/bin/python generate_listening_audio.py ../toefl/practice/2026-02-08/script.md -o ../toefl/practice/2026-02-08/audio
-```
