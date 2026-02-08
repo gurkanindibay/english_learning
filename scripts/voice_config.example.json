@@ -1,0 +1,13 @@
+{
+  "_comment": "Voice configuration for TOEFL listening practice audio generation",
+  "_instructions": "Map speaker labels to 'male' or 'female' voices",
+  "_note": "If a speaker is not listed here, the script will auto-detect from labels like '(Female)' or alternate voices",
+  
+  "Student": "male",
+  "Professor": "male",
+  "Librarian": "female",
+  "Teaching Assistant": "female",
+  "Academic Advisor": "female",
+  "Cafeteria Worker": "male",
+  "Roommate": "female"
+}
