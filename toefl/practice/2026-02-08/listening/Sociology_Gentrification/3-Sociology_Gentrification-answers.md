@@ -48,7 +48,7 @@
    - Professor ends with: "For next class, please read the case study on Brooklyn's gentrification in your textbook, Chapter 8"
    - Wrong: A (not essay), B (not interviews), D (mentioned as solution but not assignment)
 
-**Your Score: ___/10**
+**Your Score: 7/10**
 
 ---
 

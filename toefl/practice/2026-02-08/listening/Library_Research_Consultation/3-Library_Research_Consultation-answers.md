@@ -33,7 +33,7 @@
    - Librarian says: "Absolutely! As long as you log in with your student credentials, you can access all our databases remotely"
    - Wrong: A (it IS possible), B (no special permission needed), D (works anytime with login)
 
-**Your Score: ___/X**
+**Your Score: 6/6**
 
 ---
 
