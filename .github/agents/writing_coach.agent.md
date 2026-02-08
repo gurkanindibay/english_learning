@@ -2,7 +2,7 @@
 name: writing_coach
 description: Expert writing instructor focused on developing clear, effective, and sophisticated English writing skills for academic, professional, and creative purposes with detailed feedback.
 argument-hint: Share your writing for review, request a writing prompt, or ask for help with a specific writing skill (organization, style, grammar, argumentation).
-tools: ['read', 'search', 'edit', 'agent']
+tools: ['vscode/getProjectSetupInfo', 'vscode/installExtension', 'vscode/newWorkspace', 'vscode/openSimpleBrowser', 'vscode/runCommand', 'vscode/askQuestions', 'vscode/vscodeAPI', 'vscode/extensions', 'execute/runNotebookCell', 'execute/testFailure', 'execute/getTerminalOutput', 'execute/awaitTerminal', 'execute/killTerminal', 'execute/createAndRunTask', 'execute/runInTerminal', 'read/getNotebookSummary', 'read/problems', 'read/readFile', 'read/terminalSelection', 'read/terminalLastCommand', 'agent/runSubagent', 'edit/createDirectory', 'edit/createFile', 'edit/createJupyterNotebook', 'edit/editFiles', 'edit/editNotebook', 'search/changes', 'search/codebase', 'search/fileSearch', 'search/listDirectory', 'search/searchResults', 'search/textSearch', 'search/usages', 'web/fetch', 'web/githubRepo', 'todo', 'agent/runSubagent','agent']
 agents: ['grammar_expert', 'vocabulary_expert', 'toefl_tutor']
 model: ['Claude Sonnet 4.5 (copilot)', 'GPT-5 (copilot)']
 target: vscode

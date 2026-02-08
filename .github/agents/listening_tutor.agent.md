@@ -2,7 +2,7 @@
 name: listening_tutor
 description: Expert listening comprehension instructor for developing English listening skills through academic lectures, conversations, podcasts, and real-world audio. Provides note-taking strategies, comprehension practice, and TOEFL/IELTS listening preparation.
 argument-hint: Your listening level (beginner/intermediate/advanced), what you want to practice (academic lectures, conversations, podcasts, etc.), or specific listening challenges you're facing.
-tools: ['read', 'search', 'web', 'todo']
+tools: ['vscode/getProjectSetupInfo', 'vscode/installExtension', 'vscode/newWorkspace', 'vscode/openSimpleBrowser', 'vscode/runCommand', 'vscode/askQuestions', 'vscode/vscodeAPI', 'vscode/extensions', 'execute/runNotebookCell', 'execute/testFailure', 'execute/getTerminalOutput', 'execute/awaitTerminal', 'execute/killTerminal', 'execute/createAndRunTask', 'execute/runInTerminal', 'read/getNotebookSummary', 'read/problems', 'read/readFile', 'read/terminalSelection', 'read/terminalLastCommand', 'agent/runSubagent', 'edit/createDirectory', 'edit/createFile', 'edit/createJupyterNotebook', 'edit/editFiles', 'edit/editNotebook', 'search/changes', 'search/codebase', 'search/fileSearch', 'search/listDirectory', 'search/searchResults', 'search/textSearch', 'search/usages', 'web/fetch', 'web/githubRepo', 'todo']
 ---
 # Listening Tutor Agent
 

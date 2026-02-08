@@ -2,7 +2,7 @@
 name: grammar_expert
 description: Specialized grammar instructor providing in-depth explanations of English grammar rules, patterns, and usage for advanced C1/C2 learners with clear examples and practice.
 argument-hint: A grammar question, sentence to correct, or specific grammar topic you want to learn (e.g., conditionals, modals, passive voice, subjunctive).
-tools: ['read', 'search', 'edit', 'agent']
+tools: ['vscode/getProjectSetupInfo', 'vscode/installExtension', 'vscode/newWorkspace', 'vscode/openSimpleBrowser', 'vscode/runCommand', 'vscode/askQuestions', 'vscode/vscodeAPI', 'vscode/extensions', 'execute/runNotebookCell', 'execute/testFailure', 'execute/getTerminalOutput', 'execute/awaitTerminal', 'execute/killTerminal', 'execute/createAndRunTask', 'execute/runInTerminal', 'read/getNotebookSummary', 'read/problems', 'read/readFile', 'read/terminalSelection', 'read/terminalLastCommand', 'agent/runSubagent', 'edit/createDirectory', 'edit/createFile', 'edit/createJupyterNotebook', 'edit/editFiles', 'edit/editNotebook', 'search/changes', 'search/codebase', 'search/fileSearch', 'search/listDirectory', 'search/searchResults', 'search/textSearch', 'search/usages', 'web/fetch', 'web/githubRepo', 'todo', 'agent/runSubagent','agent']
 agents: ['writing_coach', 'toefl_tutor']
 model: ['Claude Sonnet 4.5 (copilot)', 'GPT-5 (copilot)']
 target: vscode

@@ -2,7 +2,7 @@
 name: vocabulary_expert
 description: Specialized vocabulary instructor helping build advanced English vocabulary through academic word lists, context-based learning, collocations, and systematic tracking in vocabulary.md.
 argument-hint: Ask about word meanings, request vocabulary exercises, add new words to vocabulary.md, or explore word families and collocations for specific topics.
-tools: ['read', 'search', 'edit', 'web']
+tools: ['vscode/getProjectSetupInfo', 'vscode/installExtension', 'vscode/newWorkspace', 'vscode/openSimpleBrowser', 'vscode/runCommand', 'vscode/askQuestions', 'vscode/vscodeAPI', 'vscode/extensions', 'execute/runNotebookCell', 'execute/testFailure', 'execute/getTerminalOutput', 'execute/awaitTerminal', 'execute/killTerminal', 'execute/createAndRunTask', 'execute/runInTerminal', 'read/getNotebookSummary', 'read/problems', 'read/readFile', 'read/terminalSelection', 'read/terminalLastCommand', 'agent/runSubagent', 'edit/createDirectory', 'edit/createFile', 'edit/createJupyterNotebook', 'edit/editFiles', 'edit/editNotebook', 'search/changes', 'search/codebase', 'search/fileSearch', 'search/listDirectory', 'search/searchResults', 'search/textSearch', 'search/usages', 'web/fetch', 'web/githubRepo', 'todo', 'agent/runSubagent','agent']
 model: ['Claude Sonnet 4.5 (copilot)', 'GPT-5 (copilot)']
 target: vscode
 user-invokable: true

@@ -2,8 +2,8 @@
 name: conversation_partner
 description: Friendly English conversation partner for casual practice, everyday communication, and building fluency through natural dialogue on diverse topics.
 argument-hint: A topic you'd like to discuss (daily life, hobbies, current events, travel, etc.), or just say "let's chat" to start a conversation.
-tools: ['read', 'search', 'agent']
-agents: ['grammar_expert', 'vocabulary_expert', 'listening_tutor']
+tools: ['vscode/getProjectSetupInfo', 'vscode/installExtension', 'vscode/newWorkspace', 'vscode/openSimpleBrowser', 'vscode/runCommand', 'vscode/askQuestions', 'vscode/vscodeAPI', 'vscode/extensions', 'execute/runNotebookCell', 'execute/testFailure', 'execute/getTerminalOutput', 'execute/awaitTerminal', 'execute/killTerminal', 'execute/createAndRunTask', 'execute/runInTerminal', 'read/getNotebookSummary', 'read/problems', 'read/readFile', 'read/terminalSelection', 'read/terminalLastCommand', 'agent/runSubagent', 'edit/createDirectory', 'edit/createFile', 'edit/createJupyterNotebook', 'edit/editFiles', 'edit/editNotebook', 'search/changes', 'search/codebase', 'search/fileSearch', 'search/listDirectory', 'search/searchResults', 'search/textSearch', 'search/usages', 'web/fetch', 'web/githubRepo', 'todo', 'agent/runSubagent','agent']
+agents: ['grammar_expert', 'vocabulary_expert', 'listening_tutor' ]
 model: ['Claude Sonnet 4.5 (copilot)', 'GPT-5 (copilot)']
 target: vscode
 user-invokable: true

@@ -2,7 +2,7 @@
 name: toefl_tutor
 description: Expert TOEFL iBT instructor specialized in helping students achieve 102+ scores through comprehensive test preparation, skill development, and strategic practice across all four sections.
 argument-hint: Which section to practice (Reading, Listening, Speaking, Writing), request score analysis, or ask for study plan guidance.
-tools: ['read', 'search', 'edit', 'web', 'todo', 'agent']
+tools: ['vscode/getProjectSetupInfo', 'vscode/installExtension', 'vscode/newWorkspace', 'vscode/openSimpleBrowser', 'vscode/runCommand', 'vscode/askQuestions', 'vscode/vscodeAPI', 'vscode/extensions', 'execute/runNotebookCell', 'execute/testFailure', 'execute/getTerminalOutput', 'execute/awaitTerminal', 'execute/killTerminal', 'execute/createAndRunTask', 'execute/runInTerminal', 'read/getNotebookSummary', 'read/problems', 'read/readFile', 'read/terminalSelection', 'read/terminalLastCommand', 'agent/runSubagent', 'edit/createDirectory', 'edit/createFile', 'edit/createJupyterNotebook', 'edit/editFiles', 'edit/editNotebook', 'search/changes', 'search/codebase', 'search/fileSearch', 'search/listDirectory', 'search/searchResults', 'search/textSearch', 'search/usages', 'web/fetch', 'web/githubRepo', 'todo', 'agent/runSubagent','agent']
 agents: ['listening_tutor', 'writing_coach', 'grammar_expert', 'vocabulary_expert', 'conversation_partner']
 model: ['Claude Sonnet 4.5 (copilot)']
 target: vscode
