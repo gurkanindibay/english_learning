@@ -5,7 +5,8 @@
 **Target Score:** 102/120  
 **Gap:** +12 points  
 **Plan Start Date:** February 7, 2026  
-**Estimated Duration:** 8-10 weeks
+**Estimated Duration:** 10-12 weeks (with reduced study hours)  
+**Weekly Study Time:** 8 hours (1h weekdays, 1.5h weekends)
 
 ---
 
@@ -38,7 +39,122 @@
 
 ---
 
-## Daily Study Schedule (2-2.5 hours/day)
+## Weekly Study Schedule (8 hours/week)
+
+### Overview
+With limited study time, we maximize efficiency by focusing on high-impact activities and rotating focus areas throughout the week.
+
+**Time Distribution:**
+- **Listening:** 3.5 hours/week (44%)
+- **Speaking:** 3.5 hours/week (44%)
+- **Reading Maintenance:** 0.5 hours/week (6%)
+- **Writing Maintenance:** 0.5 hours/week (6%)
+
+### Daily Schedule
+
+#### **Monday (1 hour) - Listening Focus**
+- **0-40 min:** Academic lecture practice (2 lectures)
+  - Listen actively and take Cornell-style notes
+  - Answer comprehension questions
+- **40-55 min:** Review and analyze errors
+  - Identify missed signal words
+  - Improve note-taking strategy
+- **55-60 min:** Vocabulary review from listening passages
+
+#### **Tuesday (1 hour) - Speaking Focus**
+- **0-15 min:** Template warm-up (review Task 1-4 templates)
+- **15-35 min:** Independent Speaking (Task 1)
+  - Practice 3-4 responses to different prompts
+  - Record yourself
+- **35-55 min:** Integrated Speaking (Task 2)
+  - Practice 2-3 campus situation responses
+  - Focus on summarizing reading + listening accurately
+- **55-60 min:** Self-evaluation using TOEFL rubric
+
+#### **Wednesday (1 hour) - Listening Focus**
+- **0-30 min:** Campus conversation practice (4-5 conversations)
+  - Note-taking practice
+  - Answer questions
+- **30-50 min:** Academic lecture practice (1 complex lecture)
+  - Focus on inferencing and professor's attitude
+- **50-60 min:** Error analysis and strategy refinement
+
+#### **Thursday (1 hour) - Speaking Focus**
+- **0-20 min:** Integrated Speaking (Task 3)
+  - Academic concept responses (2-3 attempts)
+  - Practice connecting reading to lecture explanation
+- **20-40 min:** Integrated Speaking (Task 4)
+  - Academic lecture summary (2-3 attempts)
+  - Work on time management and completeness
+- **40-60 min:** Review recordings and identify improvement areas
+  - Check pronunciation, pacing, content completeness
+
+#### **Friday (1 hour) - Mixed Practice**
+- **0-30 min:** Listening practice (1 lecture + 1 conversation)
+  - Maintain consistency
+- **30-45 min:** Reading maintenance (1 passage)
+  - Keep skills sharp, time yourself (18 min max)
+- **45-60 min:** Writing maintenance
+  - Outline 1 independent essay OR review grammar structures
+
+#### **Saturday (1.5 hours) - Deep Listening Practice**
+- **0-50 min:** Full listening section simulation (abbreviated)
+  - 2 lectures + 2 conversations
+  - Timed practice with proper test conditions
+- **50-80 min:** Comprehensive review
+  - Analyze all errors
+  - Re-listen to difficult sections
+  - Update note-taking strategies
+- **80-90 min:** Update progress log and identify patterns
+
+#### **Sunday (1.5 hours) - Deep Speaking Practice**
+- **0-60 min:** Full speaking section practice (all 4 tasks)
+  - Task 1: 1 response
+  - Task 2: 1 response
+  - Task 3: 1 response
+  - Task 4: 1 response
+  - Record everything
+- **60-85 min:** Detailed self-evaluation
+  - Score yourself on: delivery, language use, topic development
+  - Note specific improvements needed (pronunciation, transitions, examples)
+- **85-90 min:** Plan next week's focus areas
+
+### Weekly Targets (Realistic for 8 hrs/week)
+
+| Week | Listening Practice | Speaking Responses | Reading | Writing |
+|------|-------------------|-------------------|---------|---------|
+| 1-3 | 5 lectures + 10 conversations | 20-24 total responses | 3-4 passages | 2 outlines |
+| 4-6 | 6 lectures + 12 conversations | 24-28 total responses | 3-4 passages | 1 essay + 1 outline |
+| 7-9 | 7 lectures + 14 conversations | 28-30 total responses | 4-5 passages | 1-2 essays |
+| 10-12 | Full practice sections | Full practice sections | 4-5 passages | 1 essay |
+
+### Key Principles for Success
+
+1. **Consistency over Intensity:** Never skip a day. 1 hour daily beats 7 hours once a week.
+
+2. **Active Practice:** Don't just listen/speak passively. Take notes, record yourself, analyze errors.
+
+3. **Quality over Quantity:** Better to do 2 lectures thoroughly than 5 rushed.
+
+4. **Track Progress:** Keep a simple log to see improvements week by week.
+
+5. **Adjust as Needed:** If one area improves faster, shift more time to the weaker area.
+
+### Progress Tracking
+
+Create a simple weekly log:
+```
+Week X (Date range):
+- Listening accuracy: ___%
+- Speaking self-score: ___/30
+- Total study time: ___ hours
+- Main improvements: ___
+- Areas needing focus: ___
+```
+
+---
+
+## Alternative Daily Study Schedule (Original - 2-2.5 hours/day)
 
 ### Monday - Friday
 
